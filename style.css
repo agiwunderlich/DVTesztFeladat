@@ -1,0 +1,549 @@
+p.headLineHome {
+  width: 610px;
+  height: 160px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  font-family: PlayfairDisplay;
+  font-size: 70px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p.subLineHome {
+  width: 500px;
+  height: 58px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img.mouse {
+    width: 25px;
+  height: 40px;
+    position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spa-logo-white {
+  width: 260px;
+  height: 50px;
+  object-fit: contain;
+  position: absolute;
+}
+
+button.Rectangle-2 {
+  width: 192px;
+  height: 45px;
+  background-color: #fd4948;
+  position: absolute;
+  border-radius: 2%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+/* Contact page  */
+
+img#contact-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -1000%);
+}
+
+.header-img {
+  z-index: -1;
+  position: relative;
+}
+
+.logo-contact {
+  position: relative;
+}
+
+spa-logo-white-contact {
+  width: 260px;
+  height: 50px;
+  object-fit: contain;
+}
+
+div#contact-right {
+  background-color: #213133;
+  height: 1086px;
+}
+
+.Kapcsolat {
+  width: 513px;
+  height: 80px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  font-family: PlayfairDisplay;
+  font-size: 70px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-bottom: 38px;
+}
+
+.Szabaduljon-ki-a-ht {
+  width: 458px;
+  height: 78px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.Nyitvatartsi-idben {
+  width: 458px;
+  height: 123px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.Rectangle {
+  width: 60px;
+  height: 60px;
+  border: solid 2px #00b1c0;
+}
+
+.phone {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  margin: 20px;
+}
+
+.phone_number {
+  width: 187px;
+  height: 29px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  padding: 20px;
+}
+div.phoneNumber {
+  padding: 13px;
+}
+
+.marker {
+  width: 20px;
+  height: 26.7px;
+  object-fit: contain;
+  margin: 18px;
+}
+
+.Da-Vinci-Magnklinik {
+  width: 360px;
+  height: 62px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-left: 35px;
+  margin-bottom: 0px;
+}
+
+.-Pcs-Mlics-Ot {
+  width: 360px;
+  height: 39px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-left: 35px;
+}
+
+.clock {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  margin: 17px;
+}
+
+.Cstrtk-Pntek-Szo {
+  width: 122px;
+  height: 129px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-left: 35px;
+}
+
+.orak {
+  width: 215px;
+  height: 129px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+div#kapcsolat {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+div.rectangleButton {
+  width: 460px;
+  height: 60px;
+  background-color: #00b1c0;
+  margin-top: 45px;
+  cursor: pointer;
+  align-items: center;
+  transition: background-color 2s;
+}
+
+div.rectangleButton:hover {
+    background-color: #fff;
+}
+
+.Szolgltatsok {
+  width: 185px;
+  height: 22px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.9px;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding-left: 130px;
+  padding-top: 20px;
+  transition: color 2s;
+}
+
+.Szolgltatsok:hover {
+    color:#fd4948 ;
+}
+
+div.rectangleButton2 {
+  width: 460px;
+  height: 60px;
+  background-color: #fd4948;
+  cursor: pointer;
+  align-items: center;
+  margin-top: 20px;
+  transition: background-color 2s;
+}
+
+div.rectangleButton2:hover{
+    background-color: #fff;
+}
+
+.arak {
+  width: 57px;
+  height: 22px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.9px;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding-left: 202px;
+  padding-top: 20px;
+  transition: color 2s;
+}
+
+.arak:hover{
+    color: #00b1c0; 
+}
+
+/* Services page */
+
+p.headLine {
+  width: 513px;
+  height: 80px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  font-family: PlayfairDisplay;
+  font-size: 70px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img#services-logo {
+  position: absolute;
+  top: 20px;
+  left: 345px;
+}
+
+div.servicesButtonRect {
+  width: 192px;
+  height: 45px;
+  background-color: #fd4948;
+  position: absolute;
+  top: 20px;
+  right: 345px;
+  text-align: center;
+  position: fixed; 
+  z-index: 999;
+  transition: 1s;
+}
+
+div.servicesButtonRect:hover{
+    background-color: transparent;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+
+}
+
+
+
+p.contactButtonText {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  color: #fff;
+  text-transform: uppercase;
+  margin-top: 16px;
+}
+
+.header-img-services {
+  width: 1920px;
+  height: 350px;
+  object-fit: contain;
+}
+
+div#services {
+  width: 1920px;
+  height: 2000px;
+  background-color: #213133;
+}
+
+p.head1 {
+  width: 343px;
+  height: 32px;
+  font-family: Montserrat;
+  font-size: 26px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  color: #00b1c0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-transform: uppercase;
+  padding-left: 6px;
+}
+
+p.rest {
+  width: 555px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #ffffff;
+  padding: 6px;
+}
+
+p.subHead {
+  /* width: 383px;
+    height: 27px; */
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  padding: 6px;
+}
+
+div.backGR {
+  width: 562px;
+  height: 28px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding-left: 5px;
+}
+
+p.foreGL {
+  height: 19px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #00b1c0;
+  padding: 5px;
+}
+
+p.list {
+  width: 555px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+p.list::before {
+  display: inline-block;
+  content: "";
+  width: 10px;
+  height: 10px;
+  background: #00b1c0;
+  border-radius: 50%;
+  margin-right: 13px;
+}
+
+div#lablec {
+  width: 1920px;
+  height: 230px;
+  background-color: #334243;
+}
+
+p.lab {
+  height: 15px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+div.yco-emblema {
+  text-align: center;
+}
+
+/* Prices page */
+
+div#prices {
+  width: 1920px;
+  height: 1500px;
+  background-color: #213133;
+}
+
+div.lineUpDiv {
+  margin-left: 10px;
+  padding-top: 25px;
+}
+
+.lineUp {
+  height: 19px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+div#line {
+  width: 946px;
+  height: 1px;
+  border: solid 2px #ffffff;
+}
+
+.lista {
+  height: 19px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin: 13px;
+}
+
+div.listaRect {
+  width: 947px;
+  height: 45px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
