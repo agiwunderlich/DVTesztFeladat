@@ -2,6 +2,7 @@ body {
   overflow-x: hidden;
 }
 
+
 p.headLineHome {
   width: 610px;
   height: 160px;
@@ -75,6 +76,13 @@ button.Rectangle-2 {
 
 /* Contact page  */
 
+#contactImgDiv{
+  background-image: url("img/header-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
 img#contact-logo {
   position: absolute;
   top: 50%;
@@ -82,10 +90,6 @@ img#contact-logo {
   transform: translate(-50%, -1000%);
 }
 
-.header-img {
-  z-index: -1;
-  position: relative;
-}
 
 .logo-contact {
   position: relative;
@@ -514,7 +518,7 @@ p.list::before {
 
 div#lablec {
   width: 1920px;
-  height: 230px;
+  height: 280px;
   background-color: #334243;
 }
 
@@ -533,12 +537,21 @@ p.lab {
 
 div.yco-emblema {
   text-align: center;
+  background-image: url("img/yco-emblema.svg");
+  height: 32px;
+  width: 34px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: .5s linear;
 }
 
-div.yco-emblema img {
-  width: 34px;
-  height: 32px;
+div.yco-emblema:hover{
+  background-image: url("img/logo-mobile.svg");
+  height: 70px;
+  width: 120px;
 }
+
+
 
 /* Prices page */
 
